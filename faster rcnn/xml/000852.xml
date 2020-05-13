@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jyz</folder>
+	<filename>000852.jpg</filename>
+	<path>D:\jyz\000852.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7360</width>
+		<height>4912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3954</xmin>
+			<ymin>1956</ymin>
+			<xmax>4074</xmax>
+			<ymax>2028</ymax>
+		</bndbox>
+	</object>
+</annotation>

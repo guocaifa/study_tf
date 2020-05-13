@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000498.jpg</filename>
+	<path>E:\mmm\FasterRcnn\Faster-RCNN-TensorFlow-Python3.5-master\data\VOCdevkit\VOC2007\JPEGImages\000498.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1152</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jyz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>394</ymin>
+			<xmax>955</xmax>
+			<ymax>702</ymax>
+		</bndbox>
+	</object>
+</annotation>

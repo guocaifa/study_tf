@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>tu</folder>
+	<filename>000239.jpg</filename>
+	<path>E:\label\tu\000239.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7360</width>
+		<height>4912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4887</xmin>
+			<ymin>843</ymin>
+			<xmax>5156</xmax>
+			<ymax>989</ymax>
+		</bndbox>
+	</object>
+</annotation>
